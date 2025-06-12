@@ -71,6 +71,5 @@ ehthumbs.db
 Thumbs.db
 
 # Temporary files
-test_app.py
 *.tmp
 *.temp 
